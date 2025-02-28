@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bharath Boorgu - Analytics</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bharath Boorgu</h1>
+        <p>Digital Analytics Consultant | Data Storyteller | Personalization Expert</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Strategic Digital Analytics Consultant with hands-on experience in data storytelling, personalization, and customer journey optimization. Proficient in Google Analytics, Power BI, SQL, and Python to derive insights, track digital engagement KPIs, and optimize client experiences. Passionate about translating complex data into actionable business strategies.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Google Analytics & Digital Personalization</li>
+            <li>Data Analysis & Visualization (Power BI, Tableau, SQL, Python, R)</li>
+            <li>Customer Journey Mapping & User Behavior Insights</li>
+            <li>A/B Testing & Experimentation</li>
+            <li>Campaign Performance Tracking & Reporting</li>
+            <li>Business Case Development & Executive Reporting</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Healthcare Access Analysis</h3>
+            <p>Analyzed access to healthcare in Canada using data analytics and visualization techniques.</p>
+        </div>
+        <div class="project">
+            <h3>Predictive Customer Churn Model</h3>
+            <p>Developed a machine learning model to forecast customer churn using Python and SQL.</p>
+        </div>
+        <div class="project">
+            <h3>Marketing Performance Dashboard</h3>
+            <p>Created an interactive dashboard in Power BI to track campaign performance and user engagement.</p>
+        </div>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <div class="job">
+            <h3>Marketing Analyst Intern - The Ahmad Buttler Foundation</h3>
+            <p>Developed Power BI dashboards, analyzed marketing performance, and conducted A/B testing to improve decision-making.</p>
+        </div>
+        <div class="job">
+            <h3>Digital Marketing Intern - Freyr Energy</h3>
+            <p>Designed and implemented digital personalization strategies, leading to a 40% increase in website traffic and 25% growth in engagement.</p>
+        </div>
+        <div class="job">
+            <h3>Transaction Risk Investigator - Amazon</h3>
+            <p>Investigated 100+ transactions per week, developed SQL dashboards to track fraud patterns, and reduced risk exposure by 30%.</p>
+        </div>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me:</p>
+        <a href="https://www.linkedin.com/in/boorgubharath0709/" target="_blank">LinkedIn</a>
+        <a href="mailto:bharathboorgu@gmail.com">Email</a>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Bharath Boorgu. All rights reserved.</p>
+    </footer>
+</body>
+</html>
